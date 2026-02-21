@@ -1,4 +1,4 @@
-FROM manimcommunity/manim:v0.19.1
+FROM manimcommunity/manim:v0.20.0
 
 USER root
 RUN pip install notebook
